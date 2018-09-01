@@ -1,1 +1,7 @@
-console.log('Hello World')
+function greet(name){
+	console.log('knock knock knock' + name)
+	console.log('knock knock knock' + name)
+	console.log('knock knock knock' + name)
+}
+
+greet('Aman')
